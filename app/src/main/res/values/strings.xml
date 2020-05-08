@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BillPlease</string>
+    <string name="amountTitle">Enter Bill Amount:</string>
+    <string name="inputBillAmount">123.45</string>
+    <string name="noOfPeopleTitle">Number Of People:</string>
+    <string name="additionalChargesTitle">Additional charges?</string>
+    <string name="calculateButton">Calculate</string>
+    <string name="disableAdditionalCharges">No Additional Charges</string>
+    <string name="enableAdditionalCharges">Include Additional Charges</string>
+    <string name="resultTotalAmountTitle">Total bill amount:</string>
+    <string name="resultTotalAmount"> </string>
+    <string name="resultPerPersonTitle">Amount per person:</string>
+    <string name="resultPerPerson"> </string>
+    <string name="resetButton">Reset</string>
+    <string name="gstButton">No GST</string>
+    <string name="gstEnable">Include GST</string>
+    <string name="disableServiceCharge">No Service Charge</string>
+    <string name="enableServiceCharge"> Include Service Charge</string>
+</resources>
